@@ -1,5 +1,5 @@
 const container = document.querySelector(".container");
-const url = "https://api.icndb.com/jokes/random/10";
+const url = "https://api.icndb.com/jokes/random/5";
 
 async function fetchMultiple() {
   try {
